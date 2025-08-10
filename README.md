@@ -43,6 +43,9 @@ pip install pandas numpy scikit-learn tensorflow matplotlib seaborn
 5. **Visualization**: Plot a confusion matrix using Seaborn.
 
 ## Results
+
+<img width="683" height="701" alt="image" src="https://github.com/user-attachments/assets/f08468ea-757e-4020-b9c6-a90e64d0e627" />
+
 - **Test Accuracy**: 87.93%.
 - **Classification Report**:
   - Air: Precision=0.90, Recall=0.90, F1=0.90 (1,796 samples).
